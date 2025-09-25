@@ -21,14 +21,14 @@ https://super.footcric.xyz/Toffeelive/live.php?id=c58fd7a1e300&e=.m3u8|Referer=h
 https://cdn.hoichoi24.com/LIVE/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png"group-title="ICC Champions Trophy",T spoRts
-http://kst.moonplex.net:8080/CH2/index.m3u8
+http://116.204.149.16/t_sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png"group-title="sony liv",bd vs pk
 http://116.204.149.16/t_sports/index.m3u8
-https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png"group-title="ICC Champions Trophy",T SPORTS
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1744657544&md5=JH7YY8US91M4TX_OR0liUA&user=8333f5cef8e441a0abd75ae8344d39d7
+http://116.204.149.16/t_sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
  https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
@@ -129,8 +129,8 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia cup finalb2025", Final Asia cup 2025
+http://116.204.149.16/t_sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup" group-title="",Asia Cup
 https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
