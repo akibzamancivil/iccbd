@@ -132,9 +132,9 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia cup finalb2025", Final Asia cup 2025
 http://116.204.149.16/t_sports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup" group-title="",Asia Cup
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="ICC Women's Cricket World Cup 2025" group-title="",Asia Cup
 https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup" group-title="",Asia Cup
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="ICC Women's Cricket World Cup 2025" group-title="",Asia Cup
 https://wasitv-pro.site/crichd/master.m3u8/?c=willowusa&key=WASITV
 #EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live Sports
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
@@ -142,3 +142,12 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla" group-title="",Gazi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+
+
+{
+    "name": "ICC Women's Cricket World Cup 2025",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-asiacup/master_1300.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREUeK_CZZWKW8XJVuuwKrBLmsqmHE6XDMdZzgOh8uJg&s",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1759724235:KeyName=prod_live_events:Signature=jX4_uXaIa5JAFBpMsR7ljNnpZvoxH86bIGS43v5iqvcVkkBmjE7FHs04Cd1ksa1ZX-AMLYzXh-QUGcu223uRCw"
+  },
