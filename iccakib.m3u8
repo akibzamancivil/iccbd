@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREUeK_CZZWKW8XJVuuwKrBLmsqmHE6XDMdZzgOh8uJg&s"group-title="ICC woman's",icc woman 
+https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd?|drmScheme=clearkey&drmLicense=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="ICC Champions Trophy",t sports 
 http://116.204.149.16/t_sports/index.m3u8
