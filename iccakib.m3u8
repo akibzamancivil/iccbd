@@ -17,11 +17,11 @@ https://bd-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c58850_1ta-d
 http://198.51.100.100/hls/tsports.m3u8
 http://103.175.242.10:8080/tsports1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca"group-title="epl",TOFEE BD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_logo.jpeg"group-title="epl",TOFEE BD
 https://super.footcric.xyz/Toffeelive/live.php?id=c58fd7a1e300&e=.m3u8|Referer=https://super.footcric.xyz/
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca"group-title="football", football EPL
-http://172.31.100.110:8081/LiveSports2/tracks-v1a1/mono.m3u8?token=fba90a265ec9e916069360f8ae26359d595408d4-d6a13ec0d140cc3484dbb3f355668d5b-1764075358-176406
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_logo.jpeg"group-title="football", football EPL
+http://172.31.100.110:8081/LiveSports2/tracks-v1a1/mono.m3u8?token=fba90a265ec9e916069360f8ae26359d595408d4-d6a13ec0d140cc3484dbb3f355668d5b-1764075358-1764064558
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
 https://bdlivestreaming.xyz/Ktv/op/167575/playlist.m3u8
@@ -34,7 +34,6 @@ https://wasitv-pro.site/crichd/master.m3u8/?c=willowusa&key=WASITV
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 http://172.31.100.110:8081/LiveSports1/tracks-v1a1/mono.m3u8?token=d2fbebaf11468e3fea41b599a520c8f2632d4d95-a84b2cd9a264fa6a453b61989bf636e6-1764075376-1764064576
 
-4558
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
