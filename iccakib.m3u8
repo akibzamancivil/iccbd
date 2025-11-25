@@ -32,6 +32,10 @@ https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 https://wasitv-pro.site/crichd/master.m3u8/?c=willowusa&key=WASITV
 #EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live Sports
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
+http://172.31.100.110:8081/LiveSports1/tracks-v1a1/mono.m3u8?token=d2fbebaf11468e3fea41b599a520c8f2632d4d95-a84b2cd9a264fa6a453b61989bf636e6-1764075376-1764064576
+
+http://172.31.100.110:8081/LiveSports2/tracks-v1a1/mono.m3u8?token=fba90a265ec9e916069360f8ae26359d595408d4-d6a13ec0d140cc3484dbb3f355668d5b-1764075358-1764064558
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla" group-title="",Gazi TV
