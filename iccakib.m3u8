@@ -9,7 +9,7 @@ http://stvlive.net:8080/tsports1/index.m3u8
 http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="BPL",A
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763759850~acl=/*~id=82511365334357025015447612795809~hmac=31fc916bf06f11b65f7bb55725e918f70b1767cd06d51a415536b8fa8c89ab6f
-http://172.31.100.110:8081/TSports/tracks-v1a1/mono.m3u8?token=88fff37af0b8477ebdaac37e44df5b699f8328f3-411bdc8d671aa1b50988441743572eb4-1764074033-1764063233
+http://172.31.100.110:8081/TSportsHD/tracks-v1a1/mono.m3u8?token=f7da924b9902d95e7c26d6c07674027b459788a0-d9c031fe5673e4250747644cdf12f9ae-1764091031-1764080231074033-1764063233
 #EXTINF:-1 tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BAN@2x.png"group-title="BD all event", Bangladesh match 
 https://bd-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c58850_1ta-di_h264/index.m3u8
 
@@ -40,8 +40,8 @@ https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla" group-title="",Gazi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/T10_League_Logo.png"group-title="T10",T10
+http://172.31.100.110:8081/TSportsHD/tracks-v1a1/mono.m3u8?token=f7da924b9902d95e7c26d6c07674027b459788a0-d9c031fe5673e4250747644cdf12f9ae-1764091031-1764080231
 {
     "name": "ICC Women's Cricket World Cup 2025",
     "link": "https://mprod-cdn.toffeelive.com/live/match-asiacup/master_1300.m3u8",
