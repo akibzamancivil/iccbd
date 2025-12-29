@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
+https://bd-mc-fdlive.fancode.com/mumbai/138921_english_hls_d69a6a330972121_1ta-di_h264/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREUeK_CZZWKW8XJVuuwKrBLmsqmHE6XDMdZzgOh8uJg&s"group-title="ICC woman's",icc woman 
 https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd?|drmScheme=clearkey&drmLicense=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
 https://mprod-cdn.toffeelive.com/live/match-asiacup/master_1300.m3u8?|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1761795294:KeyName=prod_live_events:Signature=Fm0OrcUczDMy4U1Mg61jw4KjtsrZl1_hutqvEFfFt490Mc2bR_bwRvxXnRV8EOpW5G3Yevh6j3JCv3eECww6BQ
