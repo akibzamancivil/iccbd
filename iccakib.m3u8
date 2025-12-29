@@ -11,7 +11,7 @@ http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763759850~acl=/*~id=82511365334357025015447612795809~hmac=31fc916bf06f11b65f7bb55725e918f70b1767cd06d51a415536b8fa8c89ab6f
 http://172.31.100.110:8081/TSportsHD/tracks-v1a1/mono.m3u8?token=f7da924b9902d95e7c26d6c07674027b459788a0-d9c031fe5673e4250747644cdf12f9ae-1764091031-1764080231074033-1764063233
 #EXTINF:-1 tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BAN@2x.png"group-title="BD all event", Bangladesh match 
-https://bd-mc-fdlive.fancode.com/mumbai/138239_english_hls_eb5430a5c152122_1ta-di_h264/index.m3u8
+https://bd-mc-fdlive.fancode.com/mumbai/138921_english_hls_d69a6a330972121_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",T SPORTS
 http://198.51.100.100/hls/tsports.m3u8
