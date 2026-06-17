@@ -1,8 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
-https://bd-mc-fdlive.fancode.com/mumbai/138921_english_hls_d69a6a330972121_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="world cup",FiFa
+https://zubayerop.short.gy/FIFA-WC-16-1.m3u8
+
+https://zubayerop.short.gy/FIFA-WC-16-2.m3u8
+
+https://zubayerop.short.gy/FIFA-WC-16-3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREUeK_CZZWKW8XJVuuwKrBLmsqmHE6XDMdZzgOh8uJg&s"group-title="ICC woman's",icc woman 
